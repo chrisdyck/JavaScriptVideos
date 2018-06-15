@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JavaScriptVideos", "JavaScriptVideos\", "{E20C4692-C674-4F60-BA9F-1B6CDC4E79DE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53145"
+		Debug.AspNetCompiler.PhysicalPath = "JavaScriptVideos\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53145\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53145"
+		Release.AspNetCompiler.PhysicalPath = "JavaScriptVideos\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53145\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53145"
+		SlnRelativePath = "JavaScriptVideos\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20C4692-C674-4F60-BA9F-1B6CDC4E79DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20C4692-C674-4F60-BA9F-1B6CDC4E79DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C833B7-50E4-451B-B006-E5A2C73A0619}
+	EndGlobalSection
+EndGlobal
